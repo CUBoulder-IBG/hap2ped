@@ -12,3 +12,9 @@ cd GeneEvolve
 
 The compiled files for Linux are availible in the main direcory: Haptoped_Linux
 
+#Compile
+
+To compile Haptoped, run the following command:
+
+  make
+
