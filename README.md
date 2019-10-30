@@ -8,3 +8,7 @@ Or, you can type the following commands in the terminal:
 git clone https://github.com/rtahmasbi/GeneEvolve
 cd GeneEvolve
 
+# Binary files
+
+The compiled files for Linux are availible in the main direcory: Haptoped_Linux
+
