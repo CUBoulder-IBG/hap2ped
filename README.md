@@ -16,5 +16,11 @@ The compiled files for Linux are availible in the main direcory: Haptoped_Linux
 
 To compile Haptoped, run the following command:
 
-  make
+volve, run the following commands:
+
+    make
+
+
+# Documentation
+
 
