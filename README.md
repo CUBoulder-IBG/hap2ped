@@ -47,6 +47,6 @@ The location of the hap file is /path_of_the_hap_files/. A hap file should exist
 
 The argument --output can accept the two values "Unphased" or "Phased". The two alleles will be switched with a probability of .5 if the parameter "Unphased" is provided.
 
-The path of the output is /path_of_the_ped_file/ped_file.chr i
+The path of the output is /path_of_the_ped_file/ped_file.chr so a ped file will be created with the name /path_of_the_ped_file/ped_file.chrX.ped where X is the chromosome number.
 
-
+The format of the ped file depends on 
