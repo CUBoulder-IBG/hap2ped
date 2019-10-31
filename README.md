@@ -51,7 +51,7 @@ The path of the output is /path_of_the_ped_file/ped_file.chr and a file /path_of
 
 One of these values can be provided to the argument --outputtype: "AGCT" or "01". A legend file is needed for the argument "AGCT".
 
-
+The location of the legend file is determine with the argument --mapslegendfile following by the path. 
 
 
 
