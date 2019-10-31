@@ -20,9 +20,13 @@ The compiled files for Linux are availible in the main direcory: Haptoped_Linux
 
 To compile Haptoped, run the following command:
 
-volve, run the following commands:
-
     make
+
+The provided code will work for hap with less 27,500 SNPs, less than 400,000 individuals, and need 12 Gigabytes of memory. This can be change before the compilation by modifying the two lines of code:
+
+
+    #define MAXSNP 27500
+    #define MAXPEOPLE 400000
 
 
 # Documentation
