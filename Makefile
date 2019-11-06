@@ -1,0 +1,2 @@
+/pl/active/KellerLab/Emmanuel/haptoped/haptoped: /pl/active/KellerLab/Emmanuel/haptoped/haptoped.c
+	gcc -o /pl/active/KellerLab/Emmanuel/haptoped/haptoped /pl/active/KellerLab/Emmanuel/haptoped/haptoped.c -lm
